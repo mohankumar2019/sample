@@ -1,3 +1,0 @@
-This  is Sample program..........
-This is sample program2
-This is sample program3
